@@ -32,5 +32,4 @@ git add ..
 
  git pull
 
-git config -- global user.name "*********"   for creating user name
 
