@@ -1,0 +1,45 @@
+# this is he page for VIM editor practice
+
+
+vim editor has 3 modes
+1. insert mode
+2. Command mode
+3. execute mode
+
+====================================================
+INSERT MODE COMMANDS
+
+esc i is to enter insert mode
+
+vim file.name to open a file
+
+yy - to copy a line
+n-yy to copy n number of lines
+p- is to paste
+dd-delete a line
+n-dd to delete n number of lines
+u-undo
+dw - delete a word
+n-dw - delete n no. of words
+
+gg-to move to begging or top of page
+
+G- to move to ground or bottom of the page
+
+esc shift:set nu - to set numbering for lines
+esc shift:set nonu -to remove numbering to lines
+
+===========================================================
+
+EXECUTE MODE COMMANDS
+
+to search a word
+esc/search term (ex:esc/ground)
+
+
+esc:W - save or written of file
+esc:q - to quit or close the file
+esc:WQ - to save and quit
+esc:wq! - to quit or close with out saving
+
+
