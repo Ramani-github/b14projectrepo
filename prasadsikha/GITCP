@@ -1,0 +1,36 @@
+# this is the file to practice VIM editor
+
+Hi this is the file to practice the VIM editor and Linux commands 
+
+basic commands of GIT
+
+GIT - GLOBAL INFORMATION TRACKER
+
+git --version
+
+git init # (for git initialization)
+
+git config -- global user.name "*********"   for creating user name
+git config -- global user.email "**********"  for creating user email
+
+
+mkdir name ---- to create directory name
+touch file name ---- to create a file 
+
+git status
+
+git add ..
+ git status
+
+ git commit -m "commit message"
+
+ git status
+
+ git clone "repository link"
+
+ git push
+
+ git pull
+
+git config -- global user.name "*********"   for creating user name
+
