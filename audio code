@@ -19,3 +19,5 @@ curl -X POST -H "Content-Type: application/json" -d '{
     }
   }
 }' "https://graph.facebook.com/me/messages?access_token=<PAGE_ACCESS_TOKEN>"
+
+the cose is modified by Dinesh reddy.
